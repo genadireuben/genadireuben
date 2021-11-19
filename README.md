@@ -14,7 +14,15 @@
 </div>
   
   ##
- 
+  <div style="display: inline_block">
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38772891">
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32841028">
+    <br>
+    <br>
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38771719">
+  </div>
+    <br>
+  <path d="M21 14v5a3 3 0 01-3 3H6a3 3 0 01-3-3v-5h2v5a1 1 0 001 1h12a1 1 0 001-1v-5zm-4-.57V11l-4 2.85V3h-2v10.85L7 11v2.43L12 17z">Meu curriculo</path>
 <div> 
   <a href = "mailto:genadireuben91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/genadi-reuben" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
