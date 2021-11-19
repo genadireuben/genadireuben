@@ -1,4 +1,4 @@
-## Oiiee, me chamo Genadí e sou web developer!
+## Oii, meu nome é Genadí e sou desenvolvedor de software!
 <div align="center">
   <a href="https://github.com/genadireuben">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genadireuben&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
