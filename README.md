@@ -3,8 +3,9 @@
   <h3>A jornada foi difícil e o caminho cheio de obstáculos, mas eu consegui!</h3>
   <p style="text-align: start">
     Fazer uma transição de carreira nunca é facil, especialmente aos 30 e com dois filhos.
-    De longe não sou o mais inteligente, tampouco o mais forte ou o mais rápido,mas o que me fez chegar tão longe, de todas as vezes que tropecei e cai, foi que todas as vezes que cai eu levantei e continuei... Agradeço a todos que ao meu lado estiveram.
+    De longe não sou o mais inteligente, tampouco o mais forte ou o mais rápido, mas o que me fez chegar tão longe, de todas as vezes que tropecei, foi que todas as vezes que cai eu levantei e continuei... Agradeço a todos que ao meu lado estiveram.
   Em especial à minha esposa Laura, com todo carinho e paciência e aos meu dois anjinhos Benjamin e Bernardo que puderam entender o quão importante é nunca desisitir, de tal forma que independa da dificuldade!
+    Hoje posso dizer que sou apaixonado por tecnologia, por desenvolvimento de software e em como a gente consegue mudar o mundo com uma ideia maluca e algumas linhas de código rsrs!
   </p>
 </article>
 <br>
