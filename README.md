@@ -1,4 +1,4 @@
-## Oii, meu nome é Genadí e sou desenvolvedor de software!
+## Oi, meu nome é Genadí e sou desenvolvedor de software!
 <div align="center">
   <a href="https://github.com/genadireuben">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genadireuben&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -25,5 +25,5 @@
 <div> 
   <a href = "mailto:genadireuben91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/genadi-reuben" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/zRtGHubc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
