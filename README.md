@@ -20,10 +20,10 @@
   <br>
   <h2>My certifications</h2>
   <div style="display: inline_block">
-    <img align="center" alt="Gena-cert" height="300" width="800" src="https://www.credential.net/15154e8b-2531-4d5b-a600-62da40034d4a#gs.tbwhd6">
+    <img align="center" alt="Gena-cert" height="300" width="800" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69620714">
     <br>
     <br>
-    <img align="center" alt="Gena-cert" height="300" width="400" src="https://www.credential.net/62b647ba-8849-483e-9f5e-b4ce7e249d7e#gs.tbwm3n">
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69614129">
     <img align="center" alt="Gena-cert" height="300" width="400" src="https://www.credential.net/79704dca-e8ba-4534-bd24-29420c433298#gs.tbwm1w">
     <br>
     <br>
