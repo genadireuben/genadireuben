@@ -1,4 +1,4 @@
-<h1> Hello my name is Genadí and i am a full stck software developer !</h1><br>
+<h1> Hello my name is Genadi and i am a full stack software developer !</h1><br>
 <article>
 </article>
 <h2> My achievements </h2>
