@@ -20,15 +20,17 @@
   <br>
   <h2>My certifications</h2>
   <div style="display: inline_block">
-    <img align="center" alt="Gena-cert" height="300" width="800" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69620714">
+    <a href"https://www.credential.net/15154e8b-2531-4d5b-a600-62da40034d4a" target="_blank">
+    <img align="center" alt="Gena-cert" height="400" width="700" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69620714">
+    </a>
     <br>
     <br>
     <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69614129">
-    <img align="center" alt="Gena-cert" height="300" width="400" src="https://www.credential.net/79704dca-e8ba-4534-bd24-29420c433298#gs.tbwm1w">
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69616612">
     <br>
     <br>
-    <img align="center" alt="Gena-cert" height="300" width="400" src="https://www.credential.net/92a09668-5e15-49ab-b9e2-cfcc14266723#gs.tbwm6e">
-    <img align="center" alt="Gena-cert" height="300" width="400" src="https://www.credential.net/1e249801-d23c-4a8f-915f-578702a23721#gs.tbwmkb">
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69621254">
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69611664">
   </div>
     <br>   
   <h3>If you liked my profile send me a message!</h3>
