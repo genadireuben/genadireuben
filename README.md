@@ -1,14 +1,14 @@
-<h1> Oi, meu nome é Genadí e sou desenvolvedor de software!</h1><br>
+<h1> Hello my name is Genadí and i am a full stck software developer !</h1><br>
 <article>
 </article>
-<h2> Minhas conquistas</h2>
+<h2> My achievements </h2>
 <div align="center">
   <a href="https://github.com/genadireuben">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genadireuben&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genadireuben&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <br>
-  <h2>Tecnologias que utilizo:</h2>
+  <h2>Tecnologies tha i know</h2>
 <div style="display: inline_block">
   <img align="center" alt="Genad-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gena-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,18 +18,21 @@
   <img align="center" alt="Gena-NODE" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
   <br>
-  <h2>Minhas certificações:</h2>
+  <h2>My certifications</h2>
   <div style="display: inline_block">
-    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38772891">
-    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32841028">
+    <img align="center" alt="Gena-cert" height="300" width="800" src="https://www.credential.net/15154e8b-2531-4d5b-a600-62da40034d4a#gs.tbwhd6">
     <br>
     <br>
-    <img align="center" alt="Gena-cert" height="300" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38771719">
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://www.credential.net/62b647ba-8849-483e-9f5e-b4ce7e249d7e#gs.tbwm3n">
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://www.credential.net/79704dca-e8ba-4534-bd24-29420c433298#gs.tbwm1w">
+    <br>
+    <br>
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://www.credential.net/92a09668-5e15-49ab-b9e2-cfcc14266723#gs.tbwm6e">
+    <img align="center" alt="Gena-cert" height="300" width="400" src="https://www.credential.net/1e249801-d23c-4a8f-915f-578702a23721#gs.tbwmkb">
   </div>
     <br>   
-  <h3>Se você gostou do meu perfil me mande uma mensagem!</h3>
+  <h3>If you liked my profile send me a message!</h3>
 <div> 
   <a href="mailto:genadireuben91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/genadi-reuben" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/zRtGHubc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
