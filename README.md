@@ -4,7 +4,6 @@
 <h2> My achievements </h2>
 <div align="center">
   <a href="https://github.com/genadireuben">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genadireuben&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genadireuben&layout=compact&theme=tokyonight"/>
 </div>
   <br>
